@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PetRockTrainer
 - 👀 I’m interested in data analysis and automation
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate generally TBD, but maybe on a Feng Shui AR app (someday)
+- 💞️ I’m looking to collaborate on automation to enhance the human experience... maybe on a Feng Shui AR app (someday)
 - 📫 How to reach me: JoeKempsell@gmail.com
 
 <!---
